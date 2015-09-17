@@ -3,7 +3,7 @@ package main
 import ("fmt")
 
 func Fibonacci(num int64) int64 {
-	//Using uint64 to accomadate largest unsigned number: 
+	 
 	//Fibonacci series is used only for unsigned integers.
 	
 	//checking -ve case:
